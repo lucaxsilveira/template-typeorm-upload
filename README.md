@@ -18,7 +18,7 @@ You will need to create a database for this project, configs on ormconfig.json f
 ### `yarn`
 To install all necessary packages
 
-### `yarn dev::server`
+### `yarn dev:server`
 To run a developmet server
 
 ### `yarn test`
